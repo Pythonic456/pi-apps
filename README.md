@@ -11,6 +11,11 @@ Pi-Apps does exactly this - distributing over 50 useful app install scripts that
 > "It's an **awesome** Raspberry Pi app store and it **works really well** and there's lots of great stuff in here and it's super easy to install.
 > I want to give the devs of Pi-Apps a big shout-out."
 
+**@Pythonic456** (a user of Pi-Apps) says:
+
+> I reccomend that Pi-Apps be the first thing you install on Raspberry Pi OS, it makes it so much easier
+> to get more apps and games. Probably the best Pi App Store out there.
+
 ## To install Pi-Apps
 Make sure `git` is installed with `sudo apt install git`, then run:
 ```
